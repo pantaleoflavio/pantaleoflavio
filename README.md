@@ -75,7 +75,7 @@
 
 ###
 
-<h3 align="left">🔥  A brief guide to my projects:</h3>
+<h3 align="left">🔥  A brief guide to my projects, with the projects that i like more!</h3>
 
 ###
 
@@ -91,3 +91,60 @@
 </div>
 
 ###
+
+<h4 align="left">♛ React.js projects:</h4>
+
+###
+
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/cocktail" target="_blank">A Wikipedia of Cocktails (project in development)</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/icecream-shop" target="_blank">Icecream Shop Webapp</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/cart-react" target="_blank">An Example of a Cart</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/react-sidebar" target="_blank">Sidebar Component</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/react-navbar-component" target="_blank">Navbar Component</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/holiday" target="_blank">Holidays Slider Suggestions</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/react-dark-mode" target="_blank">React Dark Mode</a>
+</div>
+
+###
+
+<h4 align="left">♜ Javascript projects:</h4>
+
+###
+
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/emmegi-nails" target="_blank">Web application for a nail technician (project in development)</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/js-calculator" target="_blank">Simple Calculator</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/nasa-api" target="_blank">NASA API Fetchet</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/rock-paper-scissor" target="_blank">A funny variant of rock-paper-scissor</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/countdown" target="_blank">Customize Countdown/a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/js-form" target="_blank">Simple Form</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/animate-template" target="_blank">Animated Template, using JS Library and Tailwind</a>
+</div>
+
+###
+
