@@ -74,3 +74,20 @@
 </div>
 
 ###
+
+<h3 align="left">🔥  A brief guide to my projects:</h3>
+
+###
+
+<h4 align="left">♚ Biggest/important projects:</h4>
+
+###
+
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/cms_project" target="_blank">CMS Blog - PHP Backend</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/cinema_webapp_frontend" target="_blank">Cinema Web App: Frontend</a>
+</div>
+
+###
