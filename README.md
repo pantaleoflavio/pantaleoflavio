@@ -89,6 +89,9 @@
 <div align="left">
   <a href="https://github.com/pantaleoflavio/cinema_webapp_frontend" target="_blank">Cinema Web App: Frontend</a>
 </div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/cocktail" target="_blank">Wiki Drinks - Wikipedia of Cocktails in React.js</a>
+</div>
 
 ###
 
