@@ -100,9 +100,6 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/pantaleoflavio/cocktail" target="_blank">A Wikipedia of Cocktails (project in development)</a>
-</div>
-<div align="left">
   <a href="https://github.com/pantaleoflavio/icecream-shop" target="_blank">Icecream Shop Webapp</a>
 </div>
 <div align="left">
