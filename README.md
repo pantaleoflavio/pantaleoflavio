@@ -86,7 +86,7 @@
   <a href="https://github.com/pantaleoflavio/backend-food-ecommerce" target="_blank">Food Ecommerce - PHP Backend (work in progress)</a>
 </div>
 <div align="left">
-  <a href="https://github.com/pantaleoflavio/cms_project" target="_blank">CMS Blog - PHP Backend</a>
+  <a href="https://github.com/pantaleoflavio/php_blog_project" target="_blank">CMS Blog - PHP Backend</a>
 </div>
 <div align="left">
   <a href="https://github.com/pantaleoflavio/cinema_webapp_frontend" target="_blank">Cinema Web App: Frontend</a>
