@@ -78,7 +78,8 @@
   <a href="https://github.com/pantaleoflavio/backend-food-ecommerce" target="_blank">Food Ecommerce - PHP Backend</a>
 </div>
 <div align="left">
-  <a href="https://github.com/pantaleoflavio/cinemaAppFS" target="_blank">Cinema Web App New Version and Backend Implementation (Work in Progress)</a>
+  <a href="https://github.com/pantaleoflavio/cinemaAppFS" target="_blank">Cinema Web App Template for Backend Implementation (Work in Progress)</a>
+  <p>This is intended to be an Open Source project, a Template for all those who want to practice in the Backend (I am implementing the BE in PHP OOP separately)</p>
 </div>
 <div align="left">
   <a href="https://github.com/pantaleoflavio/cinema_webapp_frontend" target="_blank">Cinema Web App: Frontend</a>
