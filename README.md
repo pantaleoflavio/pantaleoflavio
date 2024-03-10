@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Flavio from Italy and living in Germany<br><br>- 🔭 I’m a Junior Fullstack Developer<br>- 📚 I'm currently learning React.js<br></p>
+<p align="left">I'm Flavio from Italy and living in Germany<br><br>- 🔭 I’m a Junior Fullstack Developer<br>- 📚 I'm currently improve myself learning by doing<br></p>
 
 ###
 
