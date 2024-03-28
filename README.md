@@ -100,31 +100,6 @@
 
 ###
 
-<h4 align="left">♛ React.js projects:</h4>
-
-###
-
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/icecream-shop" target="_blank">Icecream Shop Webapp</a>
-</div>
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/cart-react" target="_blank">An Example of a Cart</a>
-</div>
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/react-sidebar" target="_blank">Sidebar Component</a>
-</div>
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/react-navbar-component" target="_blank">Navbar Component</a>
-</div>
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/holiday" target="_blank">Holidays Slider Suggestions</a>
-</div>
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/react-dark-mode" target="_blank">React Dark Mode</a>
-</div>
-
-###
-
 <h4 align="left">♜ Javascript projects:</h4>
 
 ###
@@ -153,3 +128,30 @@
 
 ###
 
+
+###
+
+<h4 align="left">♛ React.js projects:</h4>
+
+###
+
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/icecream-shop" target="_blank">Icecream Shop Webapp</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/cart-react" target="_blank">An Example of a Cart</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/react-sidebar" target="_blank">Sidebar Component</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/react-navbar-component" target="_blank">Navbar Component</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/holiday" target="_blank">Holidays Slider Suggestions</a>
+</div>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/react-dark-mode" target="_blank">React Dark Mode</a>
+</div>
+
+###
