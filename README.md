@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -24,6 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -42,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
 ###
@@ -52,16 +58,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
@@ -78,11 +81,11 @@
   <a href="https://github.com/pantaleoflavio/backend-food-ecommerce" target="_blank">Food Ecommerce - PHP Backend</a>
 </div>
 <div align="left">
-  <a href="https://github.com/pantaleoflavio/cinemaAppFS" target="_blank">Cinema Web App Template for Backend Implementation (Work in Progress)</a>
+  <a href="https://github.com/pantaleoflavio/cinemaAppFS" target="_blank">Cinema Web App Template for Backend Implementation (Work in Progress - Most important functionalities are implemented)</a>
   <p>This is intended to be an Open Source project, a Template for all those who want to practice in the Backend (I am implementing the BE in PHP OOP separately)</p>
 </div>
 <div align="left">
-  <a href="https://github.com/pantaleoflavio/cinema_webapp_frontend" target="_blank">Cinema Web App: Frontend</a>
+  <a href="https://github.com/pantaleoflavio/BackendTemplateCinema" target="_blank">Cinema Web App: Backend implementation of the Template (functionalities for User are implemented, it misses just the Admin func/Dashboard)</a>
 </div>
 <div align="left">
   <a href="https://github.com/pantaleoflavio/cocktail" target="_blank">Wiki Drinks - Wikipedia of Cocktails in React.js</a>
