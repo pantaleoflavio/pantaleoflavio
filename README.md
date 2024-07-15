@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Flavio from Italy and living in Germany<br><br>- 🔭 I’m a Junior Fullstack Developer<br>- 📚 I'm currently improve myself learning by doing<br></p>
+<p align="left">I'm Flavio from Italy and living in Germany<br><br>- 🔭 I’m a Fullstack Developer with Backend Propension<br>- 📚 I'm currently improve myself learning by doing<br></p>
 
 ###
 
@@ -78,7 +78,7 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/pantaleoflavio/BackendTemplateCinema" target="_blank">Cinema Web App: Backend implementation of the Template (functionalities for User are implemented, it misses just the Admin func/Dashboard)</a>
+  <a href="https://github.com/pantaleoflavio/BackendTemplateCinema" target="_blank">Cinema Web App: Backend implementation of the Template, with a Docker Container (functionalities for User are implemented, it misses just some Admin functionalities)</a>
 </div>
 
 ###
