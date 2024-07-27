@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Flavio from Italy and living in Germany<br><br>- 🔭 I’m a Fullstack Developer with Backend Propension<br>- 📚 I'm currently improve myself learning by doing<br></p>
+<p align="left">I'm Vito Flavio from Italy and living in Germany<br><br>- 🔭 I’m a Fullstack Developer with Backend Propension<br>- 📚 I'm currently improve myself learning by doing<br></p>
 
 ###
 
