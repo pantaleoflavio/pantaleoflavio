@@ -111,44 +111,24 @@
 
 ###
 
-<h4 align="left">♚ Biggest/important projects:</h4>
+<h4 align="left">♚ PHP/Laravel projects:</h4>
 
 ###
 
 <div align="left">
   <a href="https://github.com/pantaleoflavio/BackendTemplateCinema" target="_blank">Cinema Web App: Backend implementation of the Template, with a Docker Container (functionalities for User are implemented, it misses just some Admin functionalities)</a>
 </div>
-
-###
-
 <div align="left">
   <a href="https://github.com/pantaleoflavio/cinemaAppFS" target="_blank">Cinema Web App Template for Backend Implementation (Work in Progress - Most important functionalities are implemented)</a>
   <p>This is intended to be an Open Source project, a Template for all those who want to practice in the Backend (I am implementing the BE in PHP OOP separately)</p>
 </div>
-
-###
-
 <div align="left">
   <a href="https://github.com/pantaleoflavio/individuyElection" target="_blank">Individuy Election: app for managing votes and sports rankings for the Individuy Italiani forum </a>
 </div>
-
-###
-
 <div align="left">
   <a href="https://github.com/pantaleoflavio/backend-food-ecommerce" target="_blank">Food Ecommerce - PHP Backend</a>
 </div>
 
-###
-
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/cocktail" target="_blank">Wiki Drinks - Wikipedia of Cocktails in React.js</a>
-</div>
-
-###
-
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/php_blog_project" target="_blank">CMS Blog - PHP Backend</a>
-</div>
 
 ###
 
@@ -156,9 +136,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/emmegi-nails" target="_blank">Web application for a nail technician (project in development)</a>
-</div>
 <div align="left">
   <a href="https://github.com/pantaleoflavio/js-calculator" target="_blank">Simple Calculator</a>
 </div>
@@ -171,15 +148,6 @@
 <div align="left">
   <a href="https://github.com/pantaleoflavio/countdown" target="_blank">Customize Countdown/a>
 </div>
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/js-form" target="_blank">Simple Form</a>
-</div>
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/animate-template" target="_blank">Animated Template, using JS Library and Tailwind</a>
-</div>
-
-###
-
 
 ###
 
@@ -188,22 +156,16 @@
 ###
 
 <div align="left">
+  <a href="https://github.com/pantaleoflavio/cocktail" target="_blank">Wikidrinks</a>
+</div>
+<div align="left">
   <a href="https://github.com/pantaleoflavio/icecream-shop" target="_blank">Icecream Shop Webapp</a>
 </div>
 <div align="left">
   <a href="https://github.com/pantaleoflavio/cart-react" target="_blank">An Example of a Cart</a>
 </div>
 <div align="left">
-  <a href="https://github.com/pantaleoflavio/react-sidebar" target="_blank">Sidebar Component</a>
-</div>
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/react-navbar-component" target="_blank">Navbar Component</a>
-</div>
-<div align="left">
   <a href="https://github.com/pantaleoflavio/holiday" target="_blank">Holidays Slider Suggestions</a>
-</div>
-<div align="left">
-  <a href="https://github.com/pantaleoflavio/react-dark-mode" target="_blank">React Dark Mode</a>
 </div>
 
 ###
