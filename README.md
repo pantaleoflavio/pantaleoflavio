@@ -118,13 +118,20 @@
 <div align="left">
   <a href="https://github.com/pantaleoflavio/BackendTemplateCinema" target="_blank">Cinema Web App: Backend implementation of the Template, with a Docker Container (functionalities for User are implemented, it misses just some Admin functionalities)</a>
 </div>
+<hr>
 <div align="left">
   <a href="https://github.com/pantaleoflavio/cinemaAppFS" target="_blank">Cinema Web App Template for Backend Implementation (Work in Progress - Most important functionalities are implemented)</a>
   <p>This is intended to be an Open Source project, a Template for all those who want to practice in the Backend (I am implementing the BE in PHP OOP separately)</p>
 </div>
+<hr>
 <div align="left">
   <a href="https://github.com/pantaleoflavio/individuyElection" target="_blank">Individuy Election: app for managing votes and sports rankings for the Individuy Italiani forum </a>
 </div>
+<hr>
+<div align="left">
+  <a href="https://github.com/pantaleoflavio/individuyElectionLaravel" target="_blank">Individuy Election App but migrated to Laravel </a>
+</div>
+<hr>
 <div align="left">
   <a href="https://github.com/pantaleoflavio/backend-food-ecommerce" target="_blank">Food Ecommerce - PHP Backend</a>
 </div>
